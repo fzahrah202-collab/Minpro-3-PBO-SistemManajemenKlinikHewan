@@ -1,7 +1,10 @@
-model\Service.class
+model\Vaksinable.class
+model\HewanLain.class
 model\Pemeriksaan.class
-com\mycompany\klinikhewan\KlinikHewan.class
+view\KlinikView.class
 model\Hewan.class
 model\Anjing.class
+main\Main.class
+controller\Service.class
 model\Kucing.class
 model\Pemilik.class

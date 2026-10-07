@@ -1,7 +1,10 @@
-C:\NetBeansProject\KlinikHewan\src\main\java\com\mycompany\klinikhewan\KlinikHewan.java
+C:\NetBeansProject\KlinikHewan\src\main\java\controller\Service.java
+C:\NetBeansProject\KlinikHewan\src\main\java\main\Main.java
 C:\NetBeansProject\KlinikHewan\src\main\java\model\Anjing.java
 C:\NetBeansProject\KlinikHewan\src\main\java\model\Hewan.java
+C:\NetBeansProject\KlinikHewan\src\main\java\model\HewanLain.java
 C:\NetBeansProject\KlinikHewan\src\main\java\model\Kucing.java
 C:\NetBeansProject\KlinikHewan\src\main\java\model\Pemeriksaan.java
 C:\NetBeansProject\KlinikHewan\src\main\java\model\Pemilik.java
-C:\NetBeansProject\KlinikHewan\src\main\java\model\Service.java
+C:\NetBeansProject\KlinikHewan\src\main\java\model\Vaksinable.java
+C:\NetBeansProject\KlinikHewan\src\main\java\view\KlinikView.java

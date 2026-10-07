@@ -2,33 +2,27 @@ package model;
 
 public class Pemeriksaan {
 
-    private int idData;
     private String keluhan;
-    private String diagnosa;
+    private String hasil;
 
-    public Pemeriksaan(int idData, String keluhan, String diagnosa) {
-        this.idData = idData;
+    public Pemeriksaan(String keluhan, String hasil) {
         this.keluhan = keluhan;
-        this.diagnosa = diagnosa;
-    }
-
-    public int getIdData() {
-        return idData;
+        this.hasil = hasil;
     }
 
     public String getKeluhan() {
         return keluhan;
     }
 
-    public String getDiagnosa() {
-        return diagnosa;
-    }
-
     public void setKeluhan(String keluhan) {
         this.keluhan = keluhan;
     }
 
-    public void setDiagnosa(String diagnosa) {
-        this.diagnosa = diagnosa;
+    public String getHasil() {
+        return hasil;
+    }
+
+    public void setHasil(String hasil) {
+        this.hasil = hasil;
     }
 }
