@@ -125,24 +125,21 @@ Dengan inheritance, subclass dapat menggunakan atribut dan method yang dimiliki 
 
 Polymorphism diterapkan dalam bentuk method overriding dan method overloading.
 
-#### a. Method Overriding
+#### 4.3.1 Method Overriding
 
 Method overriding diterapkan pada method:
 
 <img width="290" height="51" alt="image" src="https://github.com/user-attachments/assets/00f24d54-6cc7-4dcf-88b8-11d6d3206600" />
 
-Method tersebut dideklarasikan sebagai abstract method pada class Hewan.
-Kemudian method tersebut diimplementasikan kembali pada:
-- `Kucing`
-- `Anjing`
-- `HewanLain`
+Method tampilkanInfo() dideklarasikan sebagai abstract method pada class Hewan, kemudian diimplementasikan kembali oleh subclass Kucing, Anjing, dan HewanLain.
+
 Contohnya:
 
 <img width="711" height="115" alt="image" src="https://github.com/user-attachments/assets/03e4b691-c318-4b6a-b825-5f7545bd8d22" />
 
 Setiap subclass dapat menampilkan informasi sesuai dengan jenis hewannya.
 
-#### b. Method Overloading
+#### 4.3.2 Method Overloading
 
 Pada class Service terdapat dua method cariHewan() dengan parameter yang berbeda.
 
