@@ -218,7 +218,7 @@ Class Main digunakan sebagai titik awal program.
 
 <img width="227" height="80" alt="image" src="https://github.com/user-attachments/assets/2d4f20ed-9515-4ed2-8a6e-dddd3b5972f1" />
 
-## 6. Value Added
+## 6. Nilai Tambah
 
 ### 6.1 Interface Vaksinable
 
