@@ -222,13 +222,9 @@ Class Main digunakan sebagai titik awal program.
 
 ### 6.1 Interface Vaksinable
 
-Interface tersebut memiliki method:
+Interface Vaksinable diterapkan pada package model melalui file Vaksinable.java. Interface ini diimplementasikan oleh class Kucing dan Anjing.
 
 <img width="223" height="32" alt="image" src="https://github.com/user-attachments/assets/bae118eb-5ca9-4a6c-ad9b-505a5e835501" />
-
-Interface Vaksinable diimplementasikan oleh:
-- Kucing
-- Anjing
 
 Hal ini digunakan karena kedua jenis hewan tersebut memiliki informasi vaksin yang berbeda.
 Kucing menggunakan vaksin F3, sedangkan Anjing menggunakan vaksin Rabies.
